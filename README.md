@@ -1,1 +1,1 @@
-# discrete-mathematics-project
+# react-template
